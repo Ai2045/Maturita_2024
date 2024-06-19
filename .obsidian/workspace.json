@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "ccae059a8102c279",
+    "type": "split",
+    "children": [
+      {
+        "id": "07b4ca053fb85f8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fac458026ca1127a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/Giovanni Pascoli.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad4abb35fc0666f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/Ermetismo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42571541c064282e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemi e Reti/Esame Scritta/Cabraggio Strutturato.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "463799768ce37d20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemi e Reti/Virtual Private Network (VPN).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea928fc2b539fd3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "da30b6aee4fb1030",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6064b6bf36c11483",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a37555c769acd68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#La",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0925caccdaac37a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61e6c150a6232ca4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cc866d430766b32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd41f7b512a8a210",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sistemi e Reti/Virtual Private Network (VPN).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7489517e65e5985a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sistemi e Reti/Virtual Private Network (VPN).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fcecf2fd7024d9ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8a67ae1ece456835",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sistemi e Reti/Virtual Private Network (VPN).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "463799768ce37d20",
+  "lastOpenFiles": [
+    "Sistemi e Reti/Reti locali virtuali (VLAN).md",
+    "Sistemi e Reti/Proxy.md",
+    "Sistemi e Reti/Virtual Private Network (VPN).md",
+    "Sistemi e Reti/Virtualizzazione.md",
+    "Sistemi e Reti/Le tecniche NAT e PAT.md",
+    "Sistemi e Reti/Internet Security.md",
+    "Sistemi e Reti/Indirizzi IP e Subnetting.md",
+    "Sistemi e Reti/Firewall.md",
+    "Sistemi e Reti/DeMilitarized Zone (DMZ).md",
+    "Sistemi e Reti/Crittografia e firma digitale.md",
+    "Sistemi e Reti/Access Control List (ACL).md",
+    "Sistemi e Reti/Esame Scritta/Pasted image 20240615191402.png",
+    "Sistemi e Reti/Esame Scritta/IoT.md",
+    "Sistemi e Reti/Esame Scritta/Cloud.md",
+    "Sistemi e Reti/Esame Scritta/Cabraggio Strutturato.md",
+    "Storia/Italia Della Prima Repubblica.md",
+    "GPO/Untitled.md",
+    "Untitled.md",
+    "GPO",
+    "Storia/Guerra Fredda.md",
+    "Storia/La Seconda Guerra Mondiale (1939-1945).md",
+    "Storia/Fascismo in Europa e Guerra Civile Spagnola.md",
+    "Storia/Stalinismo.md",
+    "Storia/Repubblica di Weimar e Nazismo.md",
+    "Storia/Fascismo.md",
+    "Storia/Dopo Guerra Italiana (prima).md",
+    "Storia/Il Quadro Politico Europeo (inizio 1900).md",
+    "Storia/La Prima Guerra Mondiale (1914-1918).md",
+    "Storia",
+    "Italiano",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Sistemi e Reti/protocolli",
+    "Sistemi e Reti/Esame Scritta",
+    "Sistemi e Reti",
+    "Maturità 2024"
+  ]
+}
