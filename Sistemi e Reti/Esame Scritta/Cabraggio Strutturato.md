@@ -1,4 +1,4 @@
->Il cablaggio strutturato è un sistema completo di cavi e hardware che fornisce un'infrastruttura di telecomunicazioni completa. È progettato per supportare una vasta gamma di usi, come la trasmissione di dati, voce, video e altri servizi di gestione degli edifici. La progettazione e la realizzazione del cablaggio strutturato seguono criteri specifici per garantire efficienza, flessibilità e scalabilità.
+>Il cablaggio strutturato è un ==sistema== completo di ==cavi e hardware== che fornisce un'infrastruttura di telecomunicazioni completa. È progettato per supportare una vasta gamma di usi, come la trasmissione di dati, voce, video e altri servizi di gestione degli edifici. La progettazione e la realizzazione del cablaggio strutturato seguono criteri specifici per garantire efficienza, flessibilità e scalabilità.
 
 
 **Criteri di Collegamento:**

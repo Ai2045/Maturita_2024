@@ -13,10 +13,6 @@ IPsec rappresenta la scelta adottata più frequentemente dalle aziende in quanto
 
 questi due protocolli forniscono protezione anche da attacchi replay e possono essere usate in due modalità: tunnel e trasporto
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d17744a-5448-4680-a196-fbe1ea7a9950/60465679-65ff-42dd-bbda-2d754b7e8972/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d17744a-5448-4680-a196-fbe1ea7a9950/26664867-ff92-4c62-aa28-8c7bca73795a/Untitled.png)
-
 # Ike
 
 - Gestisce la negoziazione delle chiavi di sicurezza

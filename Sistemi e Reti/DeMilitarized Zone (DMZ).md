@@ -3,9 +3,8 @@
 
 In molti casi, però, si rende necessaria la creazione di una terza zona.
 
-<aside> 💡 Questa terza zona è detta **DMZ, DeMilitarized Zone**. Si tratta di un'area in cui sia il traffico WAN sia quello LAN sono fortemente limitati e controllati. Tale configurazione viene normalmente utilizzata per permettere ai server posizionati sulla DMZ di fornire servizi all'esterno senza compromettere la sicurezza della rete aziendale interna.
+ 💡 Questa terza zona è detta **DMZ, DeMilitarized Zone**. Si tratta di un'area in cui sia il traffico WAN sia quello LAN sono fortemente limitati e controllati. Tale configurazione viene normalmente utilizzata per permettere ai server posizionati sulla DMZ di fornire servizi all'esterno senza compromettere la sicurezza della rete aziendale interna.
 
-</aside>
 
 Nel caso più comune si colloca nella DMZ la **posta elettronica**; altro caso tipico sono gli **Application Server.** Generalmente in DMZ si installano i server detti **front-end**, a cui corrispondono i relativi **back-end** in LAN.
 

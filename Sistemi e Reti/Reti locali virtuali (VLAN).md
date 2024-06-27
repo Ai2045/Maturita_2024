@@ -28,7 +28,7 @@ Una VLAN può essere creata in più modi:
 - per **utenti**: tramite l’indirizzo fisico (MAC) dell’host; poco diffusa molto difficile da gestire.
 - per **protocolli**: al posto di indirizzi fisici, usa indirizzi logici (come l’indirizzo IP).
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d17744a-5448-4680-a196-fbe1ea7a9950/2cc10867-4026-47e9-9e08-51009f568ed0/Untitled.png)
+
 
 ### VLAN Trunking
 

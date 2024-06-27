@@ -1,6 +1,6 @@
-<aside> 💡 **NAT (Network Address Translation)** è una tecnica attuata dal router che, nell’intestazione di un pacchetto IP, sostituisce l’indirizzo IP, sorgente o destinazione, con un altro indirizzo.
+ 💡 **NAT (Network Address Translation)** è una tecnica attuata dal router che, nell’intestazione di un pacchetto IP, sostituisce l’indirizzo IP, sorgente o destinazione, con un altro indirizzo.
 
-</aside>
+
 
 NAT, viene usato per permettere a una rete locale, che usa una classe di indirizzi privata, di accedere a Internet usando un solo indirizzo pubblico fornito dall’**Internet Service Provider (ISP)**. Si tratta dunque, di condividere internet su una LAN usando solo un punto di accesso; dal punto di vista della sicurezza, un NAT offre già buone garanzie proprio perchè nasconde gli host interni e non indirizza loro il traffico proveniente dall’esterno.
 
@@ -8,9 +8,8 @@ NAT, viene usato per permettere a una rete locale, che usa una classe di indiriz
 
 Quando un client richiede una pagina web a un server esterno, il suo indirizzo e la sua porta di origine vengono traslati e la corrispondenza viene registrata sulla tabella. Quando arriva la risposta dal server esterno, la tabella permette di capire chi voleva quei dati, quindi il router NAT effettua la traslazione inversa e manda i pacchetti al client richiedenti.
 
-<aside> 💡 Il limite del NAT è che può traslare un solo indirizzo IP per volta, dovendo traslare indirizzo IP e porta abbinati. In questo caso vale la **regola del rapporto 1:1** tra indirizzo IP del server di destinazione e indirizzo IP del client.
+💡 Il limite del NAT è che può traslare un solo indirizzo IP per volta, dovendo traslare indirizzo IP e porta abbinati. In questo caso vale la **regola del rapporto 1:1** tra indirizzo IP del server di destinazione e indirizzo IP del client.
 
-</aside>
 
 Diversi vantaggi della tecnica NAT:
 
@@ -27,8 +26,7 @@ Il NAT presenta 3 funzionalità:
 - **Dynamic NAT:** ha a disposizione un insieme di indirizzi pubblici tra cui sceglierne uno da assegnare ai pacchetti in uscita.
 - **Port Address Translation (PAT):** traduce in modo dinamico l’indirizzo delle porte, ovvero guarda alla porta di trasmissione e non agli indirizzi IP degli host.
 
-<aside> 💡 **La tecnica PAT (Port Address Translation)** consente al router di utilizzare un singolo indirizzo IP per gestire oltre 64.000 connessioni private contemporaneamente. Questo significa che può traslare più indirizzi IP client per un medesimo indirizzo IP destinazione cambiando solo la porta.
+ 💡 **La tecnica PAT (Port Address Translation)** consente al router di utilizzare un singolo indirizzo IP per gestire oltre 64.000 connessioni private contemporaneamente. Questo significa che può traslare più indirizzi IP client per un medesimo indirizzo IP destinazione cambiando solo la porta.
 
-</aside>
 
 > Per il PAT vale la regola del **rapporto 1:N** tra indirizzo IP del server di destinazione e indirizzo IP del client.

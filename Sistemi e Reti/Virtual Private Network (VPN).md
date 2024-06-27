@@ -22,13 +22,11 @@ Ci sono due componenti indispensabili per realizzare un accesso remoto VPN:
 
 </aside>
 
-- Un **software VPN Client.**
 
 Inoltre, è necessario un firewall che fornisce una barriera tra la LAN privata e Internet.
 
-<aside> 💡 Una **Remote-access VPN** è adatta per i singoli dipendenti/utenti o per aziende con filiali costituite da piccoli uffici
+💡 Una **Remote-access VPN** è adatta per i singoli dipendenti/utenti o per aziende con filiali costituite da piccoli uffici
 
-</aside>
 
 ### Site-to-site VPN
 

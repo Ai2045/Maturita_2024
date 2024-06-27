@@ -7,7 +7,7 @@
 
 **Col tempo, la popolarità di RADIUS è cresciuta grazie alla sua flessibilità e alla capacità di supportare una vasta gamma di tipi di autenticazione e dispositivi di rete. È inoltre noto per la sua scalabilità, in quanto può essere utilizzato in piccole imprese così come in grandi organizzazioni con migliaia di utenti.**
 
-### **come funziona in dettaglio:**
+### come funziona in dettaglio:
 
 1. **Quando un client cerca di connettersi a una rete, il server RADIUS riceve una richiesta di autenticazione da quel client.**
 2. **Il server RADIUS quindi verifica le credenziali fornite dal client. Queste credenziali possono includere un nome utente e una password, o possono essere più complesse, come certificati digitali o token di sicurezza.**
@@ -16,7 +16,6 @@
 
 ## Componenti di un sistema RADIUS:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/145f05bb-2cd4-437e-a2ed-da0d8fab4f3a/59a71a33-1d16-4a9a-80d5-c3bab5e2c46f/Untitled.png)
 
 - **Client RADIUS: Il client RADIUS è un componente della rete che richiede servizi di autenticazione, autorizzazione e contabilità dal server RADIUS. Questi clienti possono essere router, switch, firewall, access point wireless, o qualsiasi altro dispositivo che necessita di controllare l'accesso degli utenti alla rete. Quando un utente cerca di connettersi alla rete, il client RADIUS invia le informazioni relative all'utente (come username e password) al server RADIUS per l'autenticazione.**
 - **Server RADIUS: Il server RADIUS è il cuore del sistema RADIUS. Questo server riceve le richieste dal client RADIUS e le processa secondo i suoi criteri configurati. Se l'utente viene autenticato con successo, il server RADIUS comunica al client l'autorizzazione dell'accesso insieme agli eventuali attributi specifici (come un indirizzo IP o le autorizzazioni VLAN) e gestisce la registrazione delle sessioni utente per la contabilità.**

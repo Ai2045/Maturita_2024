@@ -1,14 +1,12 @@
 Il **firewall** è una linea di difesa indispensabile contro le intrusioni di rete poiché agisce come sentinella alla porta di collegamento di un computer con una rete esterna come internet.
 
-<aside> 💡 Il firewall **filtra tutti i pacchetti entranti** e **uscenti**, da e verso una rete o un computer, secondo regole prestabilite (**policy**) che contribuiscono alla sicurezza della rete stessa
+💡 Il firewall **filtra tutti i pacchetti entranti** e **uscenti**, da e verso una rete o un computer, secondo regole prestabilite (**policy**) che contribuiscono alla sicurezza della rete stessa
 
-</aside>
 
 Nelle LAN aziendali viene realizzato attraverso una funzionalità logica (software) **inclusa nel router** oppure può essere implementato su un apparato **hardware dedicato**.
 
 Non disporre di un firewall significa essere esposti a numerosi attacchi e tentativi di intrusione.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d17744a-5448-4680-a196-fbe1ea7a9950/8785af29-8b9c-4786-8aa8-c593617bcf7b/Untitled.png)
 
 ### Categorie di firewall
 

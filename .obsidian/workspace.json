@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi e Reti/Virtual Private Network (VPN).md",
+                "file": "Tecnologie/Web Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e Reti/Virtual Private Network (VPN).md",
+                "file": "Tecnologie/Web Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e Reti/Virtual Private Network (VPN).md",
+                "file": "Tecnologie/Web Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi e Reti/Virtual Private Network (VPN).md"
+                "file": "Tecnologie/Web Services.md"
               }
             }
           }
@@ -185,34 +185,39 @@
   },
   "active": "463799768ce37d20",
   "lastOpenFiles": [
-    "Sistemi e Reti/Reti locali virtuali (VLAN).md",
-    "Sistemi e Reti/Proxy.md",
-    "Sistemi e Reti/Virtual Private Network (VPN).md",
-    "Sistemi e Reti/Virtualizzazione.md",
-    "Sistemi e Reti/Le tecniche NAT e PAT.md",
-    "Sistemi e Reti/Internet Security.md",
-    "Sistemi e Reti/Indirizzi IP e Subnetting.md",
-    "Sistemi e Reti/Firewall.md",
-    "Sistemi e Reti/DeMilitarized Zone (DMZ).md",
-    "Sistemi e Reti/Crittografia e firma digitale.md",
-    "Sistemi e Reti/Access Control List (ACL).md",
-    "Sistemi e Reti/Esame Scritta/Pasted image 20240615191402.png",
-    "Sistemi e Reti/Esame Scritta/IoT.md",
-    "Sistemi e Reti/Esame Scritta/Cloud.md",
-    "Sistemi e Reti/Esame Scritta/Cabraggio Strutturato.md",
-    "Storia/Italia Della Prima Repubblica.md",
-    "GPO/Untitled.md",
-    "Untitled.md",
+    "Tecnologie/XML e JSON.md",
+    "Tecnologie/HTTP e MQTT.md",
+    "Tecnologie/JavaScript.md",
+    "Tecnologie/Web Services.md",
+    "Tecnologie/Sistemi Distribuiti.md",
+    "GPO/Certificazione e qualità.md",
+    "Tecnologie",
+    "GPO/Ciclo di vita di prodotti e servizi.md",
+    "GPO/Sviluppare un’impresa.md",
+    "GPO/Gestione e controllo di progetto.md",
+    "GPO/Processi Aziendali.md",
+    "GPO/Microeconomia e Macroeconomia.md",
+    "GPO/Organizzazione Aziendale.md",
+    "Informatica/Login e Autenticazione.md",
     "GPO",
-    "Storia/Guerra Fredda.md",
-    "Storia/La Seconda Guerra Mondiale (1939-1945).md",
-    "Storia/Fascismo in Europa e Guerra Civile Spagnola.md",
-    "Storia/Stalinismo.md",
-    "Storia/Repubblica di Weimar e Nazismo.md",
-    "Storia/Fascismo.md",
-    "Storia/Dopo Guerra Italiana (prima).md",
-    "Storia/Il Quadro Politico Europeo (inizio 1900).md",
-    "Storia/La Prima Guerra Mondiale (1914-1918).md",
+    "Informatica/Normalizzazione.md",
+    "Informatica/Database.md",
+    "Informatica/Sistema Informativo e Sistema Informatico.md",
+    "Inglese/G. Orwell.md",
+    "Informatica",
+    "Inglese/The War Poets.md",
+    "Inglese/O. Wilde.md",
+    "Inglese/C. Dickens.md",
+    "Inglese/The Spanish Civil War.md",
+    "Inglese/World War II.md",
+    "Inglese/World War I.md",
+    "Inglese/The Later Victorian Age (1861-1901).md",
+    "Inglese/The Early Victorian Age (1837-1861).md",
+    "Educazione Civica/Agenda 2030.md",
+    "Inglese",
+    "Educazione Civica",
+    "Sistemi e Reti/Esame Scritta/Pasted image 20240615191402.png",
+    "GPO",
     "Storia",
     "Italiano",
     "Untitled.canvas",
@@ -220,8 +225,6 @@
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Sistemi e Reti/protocolli",
-    "Sistemi e Reti/Esame Scritta",
-    "Sistemi e Reti",
-    "Maturità 2024"
+    "Sistemi e Reti/Esame Scritta"
   ]
 }

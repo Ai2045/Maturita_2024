@@ -14,6 +14,5 @@ Le ACL vengono processate dal router in maniera sequenziale in base all’ordine
 
 > L’ordine in cui vengono scritte le ACL è importante: essendo eseguite in sequenza, è necessario inserire le condizioni più restrittive all’inizio.
 
-<aside> 💡 Le ACL possono essere standard, **Standard ACL**, oppure estese, **Extended ACL**. **Standard ACL**: specificano delle limitazioni ai pacchetti guardando esclusivamente l’indirizzo della sorgente e vanno posizionate sull’interfaccia del router il più possibile vicino alla destinazione finale. **Extended ACL**: pongono limitazioni ai pacchetti in base a molte specifiche, come il protocollo utilizzato, l’indirizzo di sorgente, l’indirizzo di destinazione e la porta a cui è indirizzato il pacchetto.
+💡 Le ACL possono essere standard, **Standard ACL**, oppure estese, **Extended ACL**. **Standard ACL**: specificano delle limitazioni ai pacchetti guardando esclusivamente l’indirizzo della sorgente e vanno posizionate sull’interfaccia del router il più possibile vicino alla destinazione finale. **Extended ACL**: pongono limitazioni ai pacchetti in base a molte specifiche, come il protocollo utilizzato, l’indirizzo di sorgente, l’indirizzo di destinazione e la porta a cui è indirizzato il pacchetto.
 
-</aside>
