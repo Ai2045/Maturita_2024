@@ -6,19 +6,19 @@ Giuseppe Ungaretti è uno dei poeti più importanti del XX secolo, noto per la s
 
   
 
-**Nascita e infanzia:** Giuseppe Ungaretti nasce l'8 febbraio 1888 ad Alessandria d'Egitto, da genitori lucchesi emigrati. La sua infanzia è segnata dalla morte prematura del padre, che lavorava alla costruzione del Canale di Suez, e dall'influenza della madre, proprietaria di un forno.
+**Nascita e infanzia:** Giuseppe Ungaretti nasce ==l'8 febbraio 1888 ad Alessandria d'Egitto==, da genitori lucchesi emigrati. La sua infanzia è segnata dalla morte prematura del ==padre, che lavorava alla costruzione del Canale di Suez==, e dall'influenza della madre, ==proprietaria di un forno==.
 
   
 
-**Formazione:** Ungaretti riceve un'educazione cosmopolita, frequentando scuole francesi e italiane ad Alessandria. Nel 1912 si trasferisce a Parigi, dove studia all'Università della Sorbona e viene in contatto con importanti intellettuali e artisti dell'epoca, tra cui Guillaume Apollinaire, Pablo Picasso e Amedeo Modigliani.
+**Formazione:** Ungaretti riceve un'educazione cosmopolita, frequentando scuole francesi e italiane ad Alessandria. Nel 1912 si trasferisce a Parigi, dove studia all'==Università della Sorbona== e viene in contatto con importanti intellettuali e artisti dell'epoca, tra cui ==Guillaume Apollinaire==, ==Pablo Picasso== e ==Amedeo Modigliani==.
 
   
 
-**Prima Guerra Mondiale:** Nel 1914, allo scoppio della Prima Guerra Mondiale, Ungaretti torna in Italia e si arruola come volontario. Le esperienze al fronte influenzano profondamente la sua poesia, portandolo a sviluppare uno stile essenziale e frammentato che esprime l'orrore e la disumanizzazione della guerra.
+**Prima Guerra Mondiale:** Nel 1914, allo scoppio della Prima Guerra Mondiale, Ungaretti torna in Italia e ==si arruola come volontario==. Le esperienze al fronte influenzano profondamente la sua poesia, portandolo a sviluppare uno stile essenziale e frammentato che esprime l'orrore e la disumanizzazione della guerra.
 
   
 
-**Carriera letteraria:** Dopo la guerra, Ungaretti lavora come giornalista e insegnante. Pubblica diverse raccolte di poesie, tra cui "Il porto sepolto" (1916), "Allegria di naufragi" (1919) e "Sentimento del tempo" (1933). La sua poesia evolve nel tempo, passando da uno stile ermetico ed essenziale a una maggiore complessità e introspezione.
+**Carriera letteraria:** Dopo la guerra, Ungaretti lavora come giornalista e insegnante. Pubblica diverse raccolte di poesie, tra cui =="Il porto sepolto" (1916),== "==Allegria di naufragi==" (1919) e "==Sentimento del tempo==" (1933). La sua poesia evolve nel tempo, passando da uno stile ermetico ed essenziale a una maggiore complessità e introspezione.
 
   
 
@@ -32,13 +32,13 @@ La visione del mondo di Ungaretti è complessa e sfaccettata, caratterizzata da 
 
   
 
-- **Pessimismo esistenziale:** La poesia di Ungaretti riflette un pessimismo esistenziale che nasce dall'esperienza della guerra e della sofferenza umana. La sua poesia esprime la fragilità e la transitorietà della vita, ma anche la ricerca di un senso di significato e di trascendenza.
+- **Pessimismo esistenziale:** La poesia di Ungaretti riflette ==un pessimismo esistenziale== che nasce dall'==esperienza della guerra e della sofferenza umana==. La sua poesia esprime ==la fragilità e la transitorietà della vita==, ma anche la ricerca di un senso di significato e di trascendenza.
     
-- **Ricerca di identità e di appartenenza:** Ungaretti esplora la sua identità e la sua connessione con la terra e la storia. La sua poesia è una meditazione sulla condizione umana e sulla ricerca di un senso di appartenenza e di significato.
+- **Ricerca di identità e di appartenenza:** Ungaretti esplora la sua identità e la sua connessione con ==la terra e la storia==. La sua poesia è una meditazione sulla condizione umana e sulla ricerca di un senso di appartenenza e di significato.
     
-- **Connessione con la natura:** La natura è un tema ricorrente nella poesia di Ungaretti, che utilizza immagini naturali per esprimere emozioni e riflessioni profonde. La sua poesia riflette una profonda connessione con la natura e una ricerca di armonia e di significato.
-    
-- **Spiritualità e trascendenza:** La poesia di Ungaretti esplora temi di spiritualità e di trascendenza, riflettendo una ricerca di significato e di connessione con qualcosa di più grande. La sua poesia è una meditazione sulla condizione umana e sulla ricerca di un senso di trascendenza e di significato.
+- **Connessione con la natura:** La natura è un tema ricorrente nella poesia di Ungaretti, che ==utilizza immagini naturali per esprimere emozioni e riflessioni profonde==. La sua poesia riflette una profonda connessione con la natura e una ricerca di armonia e di significato.
+     
+- **Spiritualità e trascendenza:** La poesia di Ungaretti esplora temi di ==spiritualità e di trascendenza==, riflettendo una ricerca di significato e di connessione con qualcosa di più grande. La sua poesia è una meditazione sulla condizione umana e sulla ricerca di un senso di trascendenza e di significato.
 
 ### Il passaggio da "Il porto sepolto" a "L'Allegria"
 
@@ -48,15 +48,15 @@ La visione del mondo di Ungaretti è complessa e sfaccettata, caratterizzata da 
 
   
 
-**Significato del titolo "L'Allegria":** Il titolo "L'Allegria" può sembrare paradossale, data l'esperienza traumatica della guerra che permea molte delle poesie. Tuttavia, il titolo riflette un senso di rinascita e di speranza che emerge dalla sofferenza e dalla distruzione. "L'Allegria" rappresenta la capacità del poeta di trovare momenti di luce e di gioia anche nelle circostanze più oscure.
+**Significato del titolo "L'Allegria":** Il titolo =="L'Allegria" può sembrare paradossale, data l'esperienza traumatica della guerra che permea molte delle poesie==. Tuttavia, il titolo riflette un senso di rinascita e di speranza che emerge dalla sofferenza e dalla distruzione. "L'Allegria" rappresenta la capacità del poeta di trovare momenti di luce e di gioia anche nelle circostanze più oscure.
 
   
 
-**Temi principali:** Mentre "Il porto sepolto" si concentra sulla profondità e la misteriosità dell'animo umano, "L'Allegria" esplora una gamma più ampia di temi, tra cui la guerra, la sofferenza, la natura, la spiritualità e la ricerca di significato. La raccolta riflette la complessità e la ricchezza dell'esperienza umana, offrendo una visione più sfaccettata e introspezione della condizione umana.
+**Temi principali:** Mentre "Il porto sepolto" si concentra sulla profondità e la misteriosità dell'animo umano, "L'Allegria" esplora una gamma più ampia di temi, ==tra cui la guerra, la sofferenza, la natura, la spiritualità e la ricerca di significato==. La raccolta riflette la complessità e la ricchezza dell'esperienza umana, offrendo una visione più sfaccettata e introspezione della condizione umana.
 
   
 
-**Stile e struttura:** "L'Allegria" mantiene lo stile essenziale e frammentato di "Il porto sepolto", ma include anche poesie che mostrano una maggiore complessità e introspezione. La raccolta è organizzata in sezioni che riflettono l'evoluzione della poetica di Ungaretti e la sua risposta alle esperienze della guerra e della vita.
+**Stile e struttura:** "L'Allegria" mantiene lo stile essenziale e frammentato di "Il porto sepolto", ma include anche poesie che mostrano una maggiore complessità e introspezione. L==a raccolta è organizzata in sezioni che riflettono l'evoluzione della poetica di Ungaretti e la sua risposta alle esperienze della guerra e della vita==.
 
   
 
@@ -94,7 +94,7 @@ La visione del mondo di Ungaretti è complessa e sfaccettata, caratterizzata da 
 
   
 
-**Contesto:** "Veglia" è una delle poesie più celebri di Ungaretti, scritta durante la Prima Guerra Mondiale. La poesia riflette l'esperienza traumatica del poeta al fronte, dove ha vissuto in prima persona l'orrore e la disumanizzazione della guerra.
+**Contesto:** "Veglia" è una delle poesie più celebri di Ungaretti, scritta durante la Prima Guerra Mondiale. ==La poesia riflette l'esperienza traumatica del poeta al fronte==, dove ha vissuto in prima persona ==l'orrore e la disumanizzazione della guerra==.
 
   
 

@@ -1,4 +1,4 @@
-**Italo Calvino** è stato uno dei più importanti scrittori italiani del XX secolo. Nato il 15 ottobre 1923 a Santiago de Las Vegas, Cuba, da genitori italiani, si trasferì presto con la famiglia in Italia, stabilendosi a Sanremo. La sua vita e carriera furono profondamente influenzate dalle esperienze personali e storiche, inclusa la partecipazione alla Resistenza durante la Seconda Guerra Mondiale.
+**Italo Calvino** è stato uno dei più importanti scrittori italiani del XX secolo. Nato il 1==5 ottobre 1923 a Santiago de Las Vegas, Cuba, da genitori italiani==, si trasferì presto con la famiglia in Italia, stabilendosi a Sanremo. La sua vita e carriera furono profondamente influenzate dalle esperienze personali e storiche, inclusa la partecipazione alla Resistenza durante la Seconda Guerra Mondiale.
 
 **Formazione e Carriera**:
 
@@ -18,8 +18,8 @@ Calvino morì il 19 settembre 1985 a Siena.
 
 **1. Dimensione Fiabesca**:
 
-- **Prospettiva di Pin**: La storia è raccontata principalmente attraverso gli occhi di Pin, un bambino con una visione del mondo ingenua e fantastica. Questo approccio permette a Calvino di introdurre elementi fiabeschi in un contesto storico drammatico.
-- **Luoghi e simboli**: Il “sentiero dei nidi di ragno” stesso è un luogo immaginario e misterioso, simbolo dell'innocenza perduta e del rifugio dalla brutalità del mondo adulto.
+- **Prospettiva di Pin**: La storia è raccontata principalmente attraverso gli occhi di ==Pin==, un bambino con una visione del mondo ingenua e fantastica. Questo approccio permette a Calvino di introdurre elementi ==fiabeschi in un contesto storico drammatico==.
+- **Luoghi e simboli**: Il “sentiero dei nidi di ragno” stesso è un luogo immaginario e misterioso, simbolo ==dell'innocenza perduta e del rifugio dalla brutalità del mondo adulto==.
 - **Personaggi**: I personaggi, come Dritto e Lupo Rosso, sono spesso descritti con tratti quasi archetipici, simili a figure delle fiabe, enfatizzando le loro caratteristiche eroiche o malvagie in modo semplificato e simbolico.
 
 **2. Dimensione Storica**:

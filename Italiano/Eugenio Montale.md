@@ -1,11 +1,11 @@
 
 **Nascita e infanzia:**  
-Eugenio Montale nasce il 12 ottobre 1896 a Genova, in una famiglia borghese. Fin da giovane, Montale mostra un interesse per la letteratura e la poesia, nonostante gli studi tecnici che intraprende su pressione della famiglia.
+Eugenio Montale nasce il 12 ottobre ==1896 a Genova, in una famiglia borghese==. Fin da giovane, Montale mostra un interesse per la letteratura e la poesia, nonostante gli studi tecnici che intraprende su pressione della famiglia.
 
   
 
 **Formazione e primi anni:**  
-Montale si forma da autodidatta, leggendo ampiamente la letteratura italiana e straniera. Durante la Prima Guerra Mondiale, viene arruolato nell'esercito italiano e presta servizio come ufficiale di fanteria. Dopo la guerra, Montale si dedica alla poesia e alla critica letteraria.
+Montale si forma da autodidatta, leggendo ampiamente la letteratura italiana e straniera. ==Durante la Prima Guerra Mondiale==, viene arruolato nell'esercito italiano e presta servizio come ==ufficiale di fanteria==. Dopo la guerra, Montale si dedica alla poesia e alla critica letteraria.
 
   
 
@@ -15,7 +15,7 @@ Nel 1925, Montale pubblica la sua prima raccolta di poesie, "Ossi di seppia", ch
   
 
 **Seconda Guerra Mondiale e dopoguerra:**  
-Durante la Seconda Guerra Mondiale, Montale vive a Firenze, dove è attivo nella Resistenza contro il regime fascista. Dopo la guerra, si trasferisce a Milano, dove lavora come giornalista e critico letterario per il "Corriere della Sera". Nel 1975, riceve il Premio Nobel per la Letteratura.
+Durante la Seconda Guerra Mondiale, Montale vive a Firenze, dove è attivo nella Resistenza contro il regime fascista. Dopo la guerra, si trasferisce a Milano, dove lavora come ==giornalista e critico letterario per il "Corriere della Sera"==. Nel 1975, riceve il Premio Nobel per la Letteratura.
 
   
 
@@ -28,7 +28,7 @@ Eugenio Montale muore il 12 settembre 1981 a Milano, lasciando un'eredità lette
 
   
 
-La poetica di Montale è caratterizzata da una visione profondamente pessimistica della condizione umana e dalla consapevolezza che la poesia non può offrire una via di liberazione o di verità assoluta. Due concetti chiave nella sua poetica sono il "male di vivere" e il "correlativo oggettivo".
+La poetica di Montale è caratterizzata da una visione profondamente ==pessimistica della condizione umana e dalla consapevolezza che la poesia non può offrire una via di liberazione o di verità assoluta.== Due concetti chiave nella sua poetica sono il "male di vivere" e il "correlativo oggettivo".
 
   
 
@@ -36,11 +36,11 @@ La poetica di Montale è caratterizzata da una visione profondamente pessimistic
 
   
 
-**Definizione:** Il "male di vivere" è un tema centrale nella poesia di Montale, che esprime il senso di angoscia, sofferenza e disillusione che caratterizza la condizione umana. Questo concetto riflette un profondo pessimismo esistenziale, ma anche una costante ricerca di accettazione della realtà.
+**Definizione:** Il "male di vivere" è un tema centrale nella poesia di Montale, che esprime ==il senso di angoscia, sofferenza e disillusione che caratterizza la condizione umana==. Questo concetto riflette un profondo pessimismo esistenziale, ma anche una costante ==ricerca di accettazione della realtà==.
 
   
 
-**Applicazione nelle opere:** In "Ossi di seppia", Montale esplora il "male di vivere" attraverso immagini naturali e paesaggi desolati, che diventano metafore della sofferenza e della solitudine umana. La poesia "Spesso il male di vivere ho incontrato" esprime chiaramente questo tema:
+**Applicazione nelle opere:** In "Ossi di seppia", Montale esplora il "male di vivere" attraverso ==immagini naturali e paesaggi desolati==, che diventano metafore della sofferenza e della solitudine umana. La poesia "Spesso il male di vivere ho incontrato" esprime chiaramente questo tema:
 
   
 
@@ -49,7 +49,7 @@ La poetica di Montale è caratterizzata da una visione profondamente pessimistic
 > era l'incartocciarsi della foglia  
 > riarsa, era il cavallo stramazzato.
 
-**Interpretazione:** In questi versi, il "male di vivere" è rappresentato attraverso immagini di sofferenza e di morte nella natura. Il rivo strozzato, la foglia riarsa e il cavallo stramazzato sono simboli della disillusione e della precarietà della vita.
+**Interpretazione:** In questi versi, il "male di vivere" è rappresentato attraverso immagini di sofferenza e di morte nella natura. ==Il rivo strozzato, la foglia riarsa e il cavallo stramazzato sono simboli della disillusione e della precarietà della vita.==
 
   
 
@@ -57,11 +57,11 @@ La poetica di Montale è caratterizzata da una visione profondamente pessimistic
 
   
 
-**Definizione:** Il "correlativo oggettivo" è un concetto introdotto da T.S. Eliot e utilizzato da Montale per esprimere emozioni e stati d'animo attraverso oggetti, immagini e situazioni concrete. Questo metodo permette al poeta di evocare sentimenti complessi in modo indiretto e suggestivo.
+**Definizione:** ==Il "correlativo oggettivo"== è un concetto introdotto da T.S. Eliot e utilizzato da Montale ==per esprimere emozioni e stati d'animo attraverso oggetti==, immagini e situazioni concrete. Questo metodo permette al poeta di evocare ==sentimenti complessi in modo indiretto e suggestivo==.
 
   
 
-**Applicazione nelle opere:** Montale utilizza il correlativo oggettivo per esprimere il "male di vivere" e altre emozioni esistenziali. In "Ossi di seppia", le immagini naturali e i paesaggi desolati diventano correlativi oggettivi delle emozioni del poeta.
+**Applicazione nelle opere:** Montale utilizza il correlativo oggettivo per esprimere il "male di vivere" e altre emozioni esistenziali. In "Ossi di seppia", l==e immagini naturali e i paesaggi desolati diventano correlativi oggettivi delle emozioni del poeta==.
 
   
 
@@ -74,7 +74,7 @@ La poetica di Montale è caratterizzata da una visione profondamente pessimistic
 > ascoltare tra i pruni e gli sterpi  
 > schiocchi di merli, frusci di serpi.
 
-**Interpretazione:** Il paesaggio desolato e rovente riflette il senso di solitudine e di angoscia del poeta. Le immagini concrete e dettagliate evocano emozioni profonde e complesse, rendendo la poesia ricca di significati impliciti.
+**Interpretazione:** Il paesaggio desolato e rovente riflette ==il senso di solitudine e di angoscia del poeta==. Le immagini concrete e dettagliate evocano emozioni profonde e complesse, rendendo la poesia ricca di significati impliciti.
 
   
 
@@ -86,11 +86,11 @@ La visione del mondo di Montale è caratterizzata da un profondo pessimismo esis
 
   
 
-- **Pessimismo esistenziale:** Montale vede il mondo come un luogo frammentato e incerto, in cui la ricerca di significato è spesso frustrata dalla solitudine, dalla morte e dalla transitorietà della vita. Il "male di vivere" è una costante nella sua poesia, esprimendo il senso di angoscia e di disillusione che caratterizza la condizione umana.
+- **Pessimismo esistenziale:** Montale vede ==il mondo come un luogo frammentato e incerto==, in cui la ricerca di significato è spesso ==frustrata dalla solitudine, dalla morte e dalla transitorietà della vita==. Il "male di vivere" è una costante nella sua poesia, esprimendo ==il senso di angoscia e di disillusione che caratterizza la condizione umana==.
     
-- **Accettazione della realtà:** Montale non vede la poesia come uno strumento per la ricerca della verità o per la liberazione, ma piuttosto come un mezzo per esprimere e accettare la realtà. La poesia diventa un modo per confrontarsi con la condizione umana e per trovare un senso di accettazione e di rassegnazione.
+- **Accettazione della realtà:** Montale non vede la poesia come uno strumento per la ricerca della verità o per la liberazione, ma piuttosto come ==un mezzo per esprimere e accettare la realtà==. La poesia diventa un modo per confrontarsi con ==la condizione umana e per trovare un senso di accettazione e di rassegnazione==.
     
-- **La natura come metafora:** La natura è vista sia come rifugio che come simbolo della condizione umana. Le immagini naturali e i paesaggi diventano metafore della lotta e della resistenza dell'essere umano. La natura è spesso descritta in modo desolato e arido, riflettendo il pessimismo esistenziale del poeta.
+- **La natura come metafora:** ==La natura è vista sia come rifugio che come simbolo della condizione umana==. Le immagini naturali e i paesaggi diventano metafore della lotta e della resistenza dell'essere umano. La natura è spesso descritta in modo desolato e arido, riflettendo il pessimismo esistenziale del poeta.
     
 - **La memoria e il tempo:** La memoria e il tempo sono dimensioni intrecciate e in continua evoluzione, che offrono sia una riflessione sulla transitorietà della vita che una possibile via di accettazione. Montale esplora la memoria come un modo per preservare e dare significato alle esperienze passate.
     
@@ -105,11 +105,11 @@ La visione del mondo di Montale è caratterizzata da un profondo pessimismo esis
 
   
 
-**Descrizione:** Questa raccolta di poesie è la prima pubblicata da Montale e rappresenta una pietra miliare della poesia italiana del XX secolo. Le poesie esplorano temi di solitudine, desolazione e ricerca di significato, utilizzando immagini naturali e paesaggi liguri.
+**Descrizione:** Questa raccolta di poesie è la prima pubblicata da Montale e rappresenta una pietra miliare della poesia italiana del XX secolo. Le poesie esplorano temi di solitudine, desolazione e ricerca di significato, utilizzando ==immagini naturali e paesaggi liguri==.
 
   
 
-**Temi principali:** La natura, la solitudine, la ricerca di significato, l'esistenzialismo.
+**Temi principali:** ==La natura, la solitudine, la ricerca di significato, l'esistenzialismo.==
 
   
 
@@ -184,9 +184,9 @@ La visione del mondo di Montale è caratterizzata da un profondo pessimismo esis
 
   
 
-- **Impossibilità di definizione:** Montale rifiuta l'idea che la poesia possa offrire una definizione chiara e univoca dell'animo umano. L'animo è descritto come "informe", e la poesia non può "squadrarlo" con precisione.
-- **Disillusione e incertezza:** La poesia esprime una profonda disillusione verso la possibilità di trovare certezze e verità assolute. Montale riconosce solo ciò che non siamo e ciò che non vogliamo.
-- **Critica alla sicurezza:** Montale critica l'uomo che vive sicuro, ignorando la complessità e l'incertezza della vita. Questo uomo è descritto come qualcuno che non cura l'ombra che la canicola stampa sopra uno scalcinato muro.
+- **Impossibilità di definizione:** Montale ==rifiuta l'idea che la poesia possa offrire una definizione chiara e univoca dell'animo umano==. L'animo è descritto come "==informe==", e la poesia non può "==squadrarlo==" con precisione.
+- **Disillusione e incertezza:** La poesia esprime una profonda ==disillusione verso la possibilità di trovare certezze e verità assolute==. Montale riconosce solo ciò che non siamo e ciò che non vogliamo.
+- **Critica alla sicurezza:** ==Montale critica l'uomo che vive sicuro, ignorando la complessità e l'incertezza della vita==. Questo uomo è descritto come qualcuno che non cura l'ombra che la canicola stampa sopra uno scalcinato muro.
 
   
 

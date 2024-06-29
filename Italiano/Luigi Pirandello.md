@@ -6,7 +6,7 @@ Luigi Pirandello è uno dei più grandi drammaturghi e scrittori italiani del XX
 
   
 
-**Nascita e formazione:** Luigi Pirandello nasce il 28 giugno 1867 a Girgenti (oggi Agrigento), in Sicilia. Proveniente da una famiglia benestante, si trasferisce a Palermo per completare gli studi liceali e successivamente si iscrive all'Università di Roma, dove studia lettere. Continua i suoi studi a Bonn, in Germania, dove si laurea con una tesi sulla fonetica dei dialetti siciliani.
+**Nascita e formazione:** Luigi Pirandello nasce ==il 28 giugno 1867 a Girgenti (oggi Agrigento)==, in Sicilia. Proveniente da una famiglia benestante, si trasferisce a ==Palermo per completare gli studi liceali== e successivamente si iscrive all'==Università di Roma==, dove studia lettere. Continua i suoi studi a Bonn, in Germania, dove si laurea con una tesi sulla fonetica dei dialetti siciliani.
 
   
 
@@ -14,7 +14,7 @@ Luigi Pirandello è uno dei più grandi drammaturghi e scrittori italiani del XX
 
   
 
-**Vita personale:** La vita personale di Pirandello è segnata da eventi drammatici, tra cui la malattia mentale della moglie, Antonietta Portulano, che viene internata in un manicomio. Questo evento influisce profondamente sulla sua visione del mondo e sulla sua opera.
+**Vita personale:** La vita personale di Pirandello è segnata da eventi drammatici, tra cui ==la malattia mentale della moglie==, Antonietta Portulano, che viene internata in un ==manicomio==. Questo evento influisce profondamente sulla sua visione del mondo e sulla sua opera.
 
   
 
@@ -34,11 +34,11 @@ La poetica di Pirandello è caratterizzata da una profonda analisi della natura 
 
   
 
-**Definizione:** Il vitalismo è una filosofia che esalta la vita e l'energia vitale come forze primarie dell'esistenza. Per Pirandello, la vita è un flusso continuo e mutevole, in contrasto con le forme statiche e rigide imposte dalla società.
+**Definizione:** Il vitalismo è una filosofia che ==esalta la vita e l'energia vitale come forze primarie dell'esistenza==. Per Pirandello, ==la vita è un flusso continuo e mutevole==, in contrasto con le forme statiche e rigide imposte dalla società.
 
   
 
-**Applicazione nelle opere:** Pirandello esplora il vitalismo attraverso personaggi che lottano per affermare la propria individualità e vitalità contro le convenzioni sociali. Questo tema è evidente in opere come "Il fu Mattia Pascal", dove il protagonista cerca di reinventare se stesso e sfuggire alle costrizioni sociali.
+**Applicazione nelle opere:** Pirandello esplora il vitalismo attraverso ==personaggi che lottano per affermare la propria individualità e vitalità contro le convenzioni sociali==. Questo tema è evidente in opere come "Il fu Mattia Pascal", dove il protagonista cerca di reinventare se stesso e sfuggire alle costrizioni sociali.
 
   
 
@@ -46,11 +46,11 @@ La poetica di Pirandello è caratterizzata da una profonda analisi della natura 
 
   
 
-**Definizione:** La maschera è un tema centrale nella poetica di Pirandello. Rappresenta le identità multiple e le facciate che le persone indossano per adattarsi alle aspettative sociali e nascondere la loro vera natura.
+**Definizione:** La maschera è un tema centrale nella poetica di Pirandello. Rappresenta ==le identità multiple e le facciate== che le persone indossano per adattarsi alle aspettative sociali e nascondere la loro vera natura.
 
   
 
-**Applicazione nelle opere:** In "Sei personaggi in cerca d'autore", i personaggi sono intrappolati nelle loro maschere e cercano disperatamente di rivelare la loro vera essenza. La maschera è anche un tema centrale in "Enrico IV", dove il protagonista finge di essere un imperatore medievale per sfuggire alla realtà.
+**Applicazione nelle opere:** In "Sei personaggi in cerca d'autore", ==i personaggi sono intrappolati nelle loro maschere e cercano disperatamente di rivelare la loro vera essenza==. La maschera è anche un tema centrale in "Enrico IV", dove il protagonista finge di essere un imperatore medievale per sfuggire alla realtà.
 
   
 
@@ -58,7 +58,7 @@ La poetica di Pirandello è caratterizzata da una profonda analisi della natura 
 
   
 
-**Definizione:** Pirandello esplora le trappole sociali come le convenzioni, le norme e le aspettative che limitano la libertà individuale e costringono le persone a conformarsi.
+**Definizione:** Pirandello esplora ==le trappole sociali come le convenzioni, le norme e le aspettative che limitano la libertà individuale== e costringono le persone a conformarsi.
 
   
 
@@ -82,11 +82,11 @@ La poetica di Pirandello è caratterizzata da una profonda analisi della natura 
 
   
 
-**Definizione:** L'umorismo di Pirandello è diverso dalla semplice comicità; è un umorismo amaro e riflessivo che mette in luce le contraddizioni e le assurdità della vita umana.
+**Definizione:** L'umorismo di Pirandello è diverso dalla semplice comicità; è ==un umorismo amaro e riflessivo che mette in luce le contraddizioni e le assurdità della vita umana==.
 
   
 
-**Applicazione nelle opere:** Pirandello descrive la sua teoria dell'umorismo nel saggio "L'umorismo". Nelle sue opere teatrali e narrative, utilizza l'umorismo per esplorare la fragilità dell'identità umana e le assurdità della vita. Ad esempio, in "Il fu Mattia Pascal", l'umorismo emerge dalla situazione paradossale del protagonista che finge la propria morte per sfuggire alla sua vita insoddisfacente.
+**Applicazione nelle opere:** Pirandello descrive la sua teoria dell'umorismo nel saggio "L'umorismo". Nelle sue opere teatrali e narrative, utilizza l'umorismo per esplorare la fragilità dell'identità umana e le assurdità della vita. Ad esempio, in =="Il fu Mattia Pascal", l'umorismo emerge dalla situazione paradossale del protagonista che finge la propria morte per sfuggire alla sua vita insoddisfacente==.
 
   
 
@@ -98,10 +98,10 @@ La visione del mondo di Pirandello è complessa e sfaccettata, caratterizzata da
 
   
 
-- **Pessimismo esistenziale:** Pirandello vede la vita come un flusso continuo e mutevole, privo di significato assoluto. Le identità sono frammentate e mutevoli, e la ricerca di una verità assoluta è futile.
-- **Critica alle convenzioni sociali:** Pirandello critica le convenzioni sociali che limitano la libertà individuale e costringono le persone a indossare maschere e a conformarsi a ruoli prestabiliti.
-- **Relativismo e soggettività:** La verità e la realtà sono relative e soggettive, dipendenti dalla percezione individuale. Non esiste una realtà oggettiva e assoluta, ma solo interpretazioni personali e frammentate.
-- **Umorismo amaro:** L'umorismo di Pirandello mette in luce le contraddizioni e le assurdità della vita umana, offrendo una riflessione critica sulla fragilità dell'identità e sulla complessità delle relazioni umane.
+- **Pessimismo esistenziale:** Pirandello vede ==la vita come un flusso continuo e mutevole==, privo di significato assoluto. Le identità sono frammentate e mutevoli, e la ricerca di un==a verità assoluta è futile==.
+- **Critica alle convenzioni sociali:** Pirandello ==critica le convenzioni sociali== che limitano la libertà individuale e costringono le persone a indossare maschere e a conformarsi a ruoli prestabiliti.
+- **Relativismo e soggettività:** ==La verità e la realtà sono relative e soggettive==, dipendenti dalla percezione individuale. Non esiste una realtà oggettiva e assoluta, ma solo interpretazioni personali e frammentate.
+- **Umorismo amaro:** L'umorismo di Pirandello mette in luce ==le contraddizioni e le assurdità della vita umana,== offrendo una riflessione critica sulla ==fragilità dell'identità== e sulla complessità delle relazioni umane.
 
 # Le opere
 
@@ -111,19 +111,19 @@ La visione del mondo di Pirandello è complessa e sfaccettata, caratterizzata da
 **Trama Completa:**
 
 
-**Inizio:** Mattia Pascal è un uomo insoddisfatto della sua vita. Vive in un piccolo paese ligure, Miragno, e lavora come bibliotecario in una biblioteca che nessuno frequenta. La sua vita è segnata da una serie di sfortune: il matrimonio infelice con Romilda Pescatore, una suocera oppressiva, la perdita della sua eredità in un investimento fallimentare e la morte dei suoi due figli piccoli.
+**Inizio:** ==Mattia Pascal== è un uomo insoddisfatto della sua vita. Vive in un piccolo paese ligure, Miragno, e ==lavora come bibliotecario== in una biblioteca che nessuno frequenta. La sua vita è segnata da una serie di sfortune: il matrimonio infelice con ==Romilda Pescatore==, ==una suocera oppressiva==, la perdita della sua eredità in un investimento fallimentare e la morte dei suoi due figli piccoli.
 
   
 
-**Fuga:** Un giorno, stanco della sua vita, Mattia decide di fuggire. Si reca a Montecarlo, dove inaspettatamente vince una grossa somma di denaro al casinò. Con questa nuova ricchezza, decide di iniziare una nuova vita e si sposta in diverse città, tra cui Nizza e Marsiglia.
+**Fuga:** Un giorno, stanco della sua vita, ==Mattia decide di fuggire==. Si reca a Montecarlo, dove inaspettatamente ==vince una grossa somma di denaro al casinò==. Con questa nuova ricchezza, decide di iniziare una nuova vita e si sposta in diverse città, tra cui Nizza e Marsiglia.
 
   
 
-**La scoperta:** Durante il suo soggiorno a Montecarlo, Mattia legge su un giornale che il suo corpo è stato trovato morto nel fiume vicino a Miragno. Realizza che è stato erroneamente dichiarato morto. Decide di approfittare della situazione e di assumere una nuova identità: Adriano Meis.
+**La scoperta:** Durante il suo soggiorno a Montecarlo, Mattia legge su un giornale che il suo corpo è stato trovato ==morto== nel fiume vicino a Miragno. Realizza che è stato erroneamente dichiarato morto. Decide di approfittare della situazione e di assumere ==una nuova identità: Adriano Meis==.
 
   
 
-**Nuova identità:** Con la nuova identità di Adriano Meis, Mattia si trasferisce a Roma. Qui, cerca di vivere una vita libera dalle costrizioni sociali e dalle responsabilità del passato. Tuttavia, scopre che la libertà totale è altrettanto insopportabile quanto le costrizioni della sua vita precedente. Non può legalmente sposarsi, né denunciare un furto subito, poiché non esiste ufficialmente.
+**Nuova identità:** Con la nuova identità di Adriano Meis, Mattia si trasferisce a Roma. Qui, cerca di vivere una vita libera dalle costrizioni sociali e dalle responsabilità del passato. Tuttavia, scopre che la libertà totale è altrettanto insopportabile quanto le costrizioni della sua vita precedente. Non ==può legalmente sposarsi, né denunciare un furto subito==, poiché non esiste ufficialmente.
 
   
 
@@ -131,11 +131,11 @@ La visione del mondo di Pirandello è complessa e sfaccettata, caratterizzata da
 
   
 
-**Ritorno:** Alla fine, Mattia decide di "uccidere" Adriano Meis, inscenando un suicidio. Ritorna a Miragno, solo per scoprire che la sua "morte" ha reso impossibile il suo ritorno alla vita normale. La moglie Romilda si è risposata e ha avuto un figlio dal nuovo marito, Pomino, il miglior amico di Mattia.
+**Ritorno:** Alla fine, Mattia decide di =="uccidere" Adriano Meis==, inscenando un suicidio. Ritorna a Miragno, solo per scoprire che ==la sua "morte" ha reso impossibile il suo ritorno alla vita normale==. La moglie Romilda si è risposata e ha avuto un figlio dal nuovo marito, Pomino, il miglior amico di Mattia.
 
   
 
-**Conclusione:** Mattia accetta il suo destino e decide di vivere come un "fu Mattia Pascal", un uomo che esiste solo nel passato. Torna a lavorare come bibliotecario, ma vive una vita di isolamento e riflessione, accettando la sua condizione di uomo senza identità.
+**Conclusione:** Mattia accetta il suo destino e decide di vivere come un =="fu Mattia Pascal"==, un uomo che esiste solo nel passato. Torna a lavorare come bibliotecario, ma vive una vita di isolamento e riflessione, accettando la sua condizione di uomo senza identità.
 
   
 
@@ -144,8 +144,8 @@ La visione del mondo di Pirandello è complessa e sfaccettata, caratterizzata da
   
 
 - **Identità e metamorfosi:** La ricerca di una nuova identità da parte di Mattia/Adriano esplora la fluidità e la frammentazione dell'identità umana.
-- **Libertà e costrizione:** Il romanzo mette in luce il paradosso della libertà totale, che può diventare una forma di prigionia.
-- **Relativismo conoscitivo:** La percezione della realtà è soggettiva e mutevole, e la verità è spesso inafferrabile.
+- **Libertà e costrizione:** Il romanzo mette in luce ==il paradosso della libertà totale==, che può diventare una forma di prigionia.
+- **Relativismo conoscitivo:** La percezione della realtà è soggettiva e mutevole, e ==la verità è spesso inafferrabile==.
 
   
 
@@ -156,7 +156,7 @@ La visione del mondo di Pirandello è complessa e sfaccettata, caratterizzata da
 
   
 
-**Trama:** Serafino Gubbio è un operatore cinematografico che tiene un diario in cui riflette sulla sua vita e sul suo lavoro. Attraverso il suo lavoro, Serafino osserva la meccanicità e la disumanizzazione della società moderna. Il romanzo culmina in un incidente tragico sul set, che porta Serafino a smettere di parlare e a dedicarsi alla scrittura.
+**Trama:** Serafino Gubbio è un operatore cinematografico che tiene un diario in cui riflette sulla sua vita e sul suo lavoro. Attraverso il suo lavoro, Serafino osserva ==la meccanicità e la disumanizzazione della società moderna.== Il romanzo culmina in un incidente tragico sul set, che porta Serafino a smettere di parlare e a dedicarsi alla scrittura.
 
   
 
@@ -164,9 +164,9 @@ La visione del mondo di Pirandello è complessa e sfaccettata, caratterizzata da
 
   
 
-- **Disumanizzazione e meccanicità:** Il romanzo critica la società moderna, che riduce gli individui a mere macchine.
-- **Osservazione e passività:** Serafino è un osservatore passivo della vita, incapace di agire o di intervenire.
-- **Alienazione:** Il lavoro di Serafino lo aliena dalla sua umanità e dalle sue emozioni.
+- **Disumanizzazione e meccanicità:** Il romanzo critica la società moderna, che ==riduce gli individui a mere macchine==.
+- **Osservazione e passività:** Serafino è ==un osservatore passivo della vita==, incapace di agire o di intervenire.
+- **Alienazione:** Il lavoro di Serafino ==lo aliena dalla sua umanità e dalle sue emozioni==.
 
   
 
@@ -178,7 +178,7 @@ La visione del mondo di Pirandello è complessa e sfaccettata, caratterizzata da
 
   
 
-**Trama:** Vitangelo Moscarda, detto Gengè, scopre che la sua immagine di sé è diversa da come gli altri lo vedono. Questa scoperta lo porta a una crisi esistenziale, in cui cerca di distruggere tutte le sue identità sociali per trovare la sua vera essenza. Alla fine, si ritira in un manicomio, dove trova una sorta di pace nella sua frammentazione.
+**Trama:** Vitangelo Moscarda, detto Gengè, scopre che la sua immagine di sé è diversa da come gli altri lo vedono. Questa scoperta lo porta a una crisi esistenziale, in cui cerca di distruggere ==tutte le sue identità sociali per trovare la sua vera essenza==. Alla fine, ==si ritira in un manicomio==, dove trova una sorta di pace nella sua frammentazione.
 
   
 
@@ -186,7 +186,7 @@ La visione del mondo di Pirandello è complessa e sfaccettata, caratterizzata da
 
   
 
-- **Identità e percezione:** Il romanzo esplora la frammentazione dell'identità e la soggettività della percezione.
+- **Identità e percezione:** Il romanzo esplora ==la frammentazione dell'identità== e la soggettività della percezione.
 - **Relativismo conoscitivo:** La verità è relativa e dipende dalla percezione individuale.
 - **Alienazione:** Gengè è alienato non solo dagli altri, ma anche da se stesso.
 
@@ -200,7 +200,7 @@ La visione del mondo di Pirandello è complessa e sfaccettata, caratterizzata da
 
   
 
-**Trama:** Il racconto breve narra la storia di Belluca, un impiegato oppresso dalla monotonia della sua vita. Un giorno, sente il fischio di un treno, che risveglia in lui il desiderio di libertà e di avventura. Questo evento lo porta a ribellarsi contro le convenzioni sociali e a cercare una nuova vita.
+**Trama:** Il racconto breve narra la storia di Belluca, ==un impiegato oppresso dalla monotonia della sua vita==. Un giorno, sente il fischio di un treno, che risveglia in lui il desiderio di libertà e di avventura. Questo evento lo porta a ribellarsi contro le convenzioni sociali e a ==cercare una nuova vita==.
 
   
 
@@ -208,8 +208,8 @@ La visione del mondo di Pirandello è complessa e sfaccettata, caratterizzata da
 
   
 
-- **Libertà e costrizione:** Il fischio del treno rappresenta la possibilità di fuga e di libertà.
-- **Alienazione:** Belluca è alienato dalla sua vita monotona e trova un momento di liberazione nel fischio del treno.
+- **Libertà e costrizione:** Il fischio del treno rappresenta la possibilità di ==fuga e di libertà==.
+- **Alienazione:** Belluca è alienato dalla sua vita monotona e trova un momento di liberazione nel ==fischio del treno==.
 - **Sogno vs. realtà:** Il racconto esplora il contrasto tra il sogno di libertà e la realtà delle costrizioni sociali.
 
   
@@ -244,7 +244,7 @@ La visione del mondo di Pirandello è complessa e sfaccettata, caratterizzata da
 
   
 
-**Trama:** La commedia racconta la storia di una famiglia che si trasferisce in una nuova città, portando con sé un mistero: la signora Frola e il signor Ponza, suo genero, danno versioni contrastanti sulla natura della loro relazione. La signora Frola afferma che sua figlia è viva e sposata con Ponza, mentre Ponza sostiene che sua moglie è morta e che la signora Frola è impazzita. La verità rimane ambigua e irrisolta.
+**Trama:** La commedia racconta la storia di una famiglia che si trasferisce in una nuova città, portando con sé un mistero: la signora Frola e il signor Ponza, suo genero, danno versioni contrastanti sulla natura della loro relazione. ==La signora Frola afferma che sua figlia è viva e sposata con Ponza==, mentre ==Ponza sostiene che sua moglie è morta e che la signora Frola è impazzita==. La verità rimane ambigua e irrisolta.
 
   
 
@@ -252,9 +252,9 @@ La visione del mondo di Pirandello è complessa e sfaccettata, caratterizzata da
 
   
 
-- **Relativismo conoscitivo:** La verità è ambigua e soggettiva, e non esiste una realtà assoluta.
-- **Identità e percezione:** Le identità dei personaggi sono frammentate e dipendono dalla percezione degli altri.
-- **Critica sociale:** La commedia critica la curiosità morbosa e l'ipocrisia della società.
+- **Relativismo conoscitivo:** ==La verità è ambigua e soggettiva,== e non esiste una realtà assoluta.
+- **Identità e percezione:** Le identità dei personaggi ==sono== frammentate e dipendono dalla percezione degli altri.
+- **Critica sociale:** ==La commedia critica la curiosità morbosa e l'ipocrisia della società==.
 
   
 
@@ -268,23 +268,23 @@ La visione del mondo di Pirandello è complessa e sfaccettata, caratterizzata da
 
   
 
-**Introduzione:** La commedia inizia con una compagnia teatrale che sta provando una commedia di Pirandello. Durante le prove, sei personaggi misteriosi entrano in scena: il Padre, la Madre, il Figlio, la Figliastra, il Giovinetto e la Bambina. Questi personaggi dichiarano di essere stati creati da un autore che li ha abbandonati e cercano qualcuno che possa completare la loro storia.
+**Introduzione:** La commedia inizia con una compagnia teatrale che sta provando una commedia di Pirandello. Durante le prove, sei personaggi misteriosi entrano in scena: ==il Padre, la Madre, il Figlio, la Figliastra, il Giovinetto e la Bambina==. Questi personaggi dichiarano di essere stati creati da un ==autore che li ha abbandonati== e cercano qualcuno che possa completare la loro storia.
 
   
 
-**Interazione con la compagnia teatrale:** Il Capocomico, inizialmente scettico, accetta di ascoltare la loro storia. I personaggi spiegano che sono intrappolati in un dramma familiare complesso e tragico. Il Padre ha avuto una relazione con una donna che poi è diventata la Madre. La Madre, dopo la separazione dal Padre, ha avuto una relazione con un altro uomo e ha avuto tre figli: la Figliastra, il Giovinetto e la Bambina.
+**Interazione con la compagnia teatrale:** Il Capocomico, inizialmente scettico, accetta di ascoltare la loro storia. I personaggi spiegano che sono intrappolati in ==un dramma familiare complesso e tragico==. Il Padre ha avuto una relazione con una donna che poi è diventata la Madre. La Madre, dopo la separazione dal Padre, ha avuto una relazione con un altro uomo e ha avuto tre figli: la Figliastra, il Giovinetto e la Bambina.
 
   
 
-**La storia dei personaggi:** La Figliastra racconta di essere stata costretta a lavorare in una casa di appuntamenti, dove ha incontrato il Padre senza riconoscerlo immediatamente. Quando si sono resi conto della loro relazione, la situazione è diventata scandalosa e dolorosa. La Madre è devastata dalla vergogna e dal dolore per la situazione dei suoi figli.
+**La storia dei personaggi:** ==La Figliastra== racconta di essere stata costretta a lavorare in ==una casa di appuntamenti==, dove ha incontrato ==il Padre senza riconoscerlo immediatamente==. Quando si sono resi conto della loro relazione, la situazione è diventata scandalosa e dolorosa. La Madre è devastata dalla vergogna e dal dolore per la situazione dei suoi figli.
 
   
 
-**Rappresentazione e conflitti:** Il Capocomico decide di mettere in scena la storia dei personaggi, ma sorgono numerosi conflitti tra i personaggi e gli attori. I personaggi insistono sulla verità delle loro emozioni e delle loro esperienze, mentre gli attori cercano di interpretare i ruoli in modo teatrale.
+**Rappresentazione e conflitti:** Il Capocomico decide di mettere in scena la storia dei personaggi, ma sorgono numerosi conflitti tra i personaggi e gli attori. I ==personaggi insistono sulla verità== delle loro emozioni e delle loro esperienze, mentre gli attori cercano di interpretare i ruoli in modo teatrale.
 
   
 
-**Climax e tragedia:** Durante la rappresentazione, si verificano eventi tragici. Il Giovinetto si suicida e la Bambina annega in una fontana. Questi eventi scioccano la compagnia teatrale, che non riesce a distinguere tra finzione e realtà.
+**Climax e tragedia:** Durante la rappresentazione, si verificano eventi tragici. I==l Giovinetto si suicida e la Bambina annega in una fontana==. Questi eventi scioccano la compagnia teatrale, che non riesce a distinguere tra finzione e realtà.
 
   
 
@@ -296,8 +296,8 @@ La visione del mondo di Pirandello è complessa e sfaccettata, caratterizzata da
 
   
 
-- **Metateatro:** La commedia esplora il confine tra realtà e finzione, mettendo in scena il processo creativo del teatro.
-- **Identità e rappresentazione:** I personaggi lottano per affermare la loro identità e la loro storia.
+- ==**Metateatro==:** La commedia esplora ==il confine tra realtà e finzione==, mettendo in scena il processo creativo del teatro.
+- **Identità e rappresentazione:** I personaggi lottano per affermare ==la loro identità e la loro storia==.
 - **Relativismo conoscitivo:** La verità è ambigua e soggettiva, e la realtà è frammentata.
 - **Critica sociale:** La commedia critica la curiosità morbosa e l'ipocrisia della società.
 

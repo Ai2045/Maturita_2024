@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d948faa3473d1c25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storia/Fascismo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b677fbee4b4040af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collegamenti.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tecnologie/Web Services.md",
+                "file": "Collegamenti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tecnologie/Web Services.md",
+                "file": "Collegamenti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tecnologie/Web Services.md"
+                "file": "Collegamenti.md"
               }
             }
           }
@@ -183,37 +207,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "463799768ce37d20",
+  "active": "b677fbee4b4040af",
   "lastOpenFiles": [
-    "Tecnologie/XML e JSON.md",
+    "Sistemi e Reti/Crittografia e firma digitale.md",
+    "Collegamenti.md",
+    "Educazione Civica/Agenda 2030.md",
+    "Sistemi e Reti/Virtual Private Network (VPN).md",
+    "Sistemi e Reti/Internet Security.md",
+    "Storia/Fascismo.md",
+    "Storia/Rivoluzione Russa.md",
+    "Storia/Dopo Guerra Italiana (prima).md",
+    "Storia/La Prima Guerra Mondiale (1914-1918).md",
+    "Storia/Repubblica di Weimar e Nazismo.md",
+    "Storia/Primato della Nazione e Mito della Razza.md",
+    "Storia/Italia Della Prima Repubblica.md",
+    "Storia/Il Quadro Politico Europeo (inizio 1900).md",
+    "Storia/Età giolittiana (1903-1913).md",
+    "Storia/La Belle Époque.md",
     "Tecnologie/HTTP e MQTT.md",
-    "Tecnologie/JavaScript.md",
-    "Tecnologie/Web Services.md",
-    "Tecnologie/Sistemi Distribuiti.md",
-    "GPO/Certificazione e qualità.md",
-    "Tecnologie",
-    "GPO/Ciclo di vita di prodotti e servizi.md",
-    "GPO/Sviluppare un’impresa.md",
-    "GPO/Gestione e controllo di progetto.md",
-    "GPO/Processi Aziendali.md",
-    "GPO/Microeconomia e Macroeconomia.md",
-    "GPO/Organizzazione Aziendale.md",
-    "Informatica/Login e Autenticazione.md",
-    "GPO",
-    "Informatica/Normalizzazione.md",
-    "Informatica/Database.md",
-    "Informatica/Sistema Informativo e Sistema Informatico.md",
-    "Inglese/G. Orwell.md",
-    "Informatica",
     "Inglese/The War Poets.md",
-    "Inglese/O. Wilde.md",
+    "Informatica/Login e Autenticazione.md",
     "Inglese/C. Dickens.md",
-    "Inglese/The Spanish Civil War.md",
+    "GPO/Ciclo di vita di prodotti e servizi.md",
+    "Tecnologie/Sistemi Distribuiti.md",
+    "Tecnologie/JavaScript.md",
     "Inglese/World War II.md",
     "Inglese/World War I.md",
-    "Inglese/The Later Victorian Age (1861-1901).md",
-    "Inglese/The Early Victorian Age (1837-1861).md",
-    "Educazione Civica/Agenda 2030.md",
+    "Inglese/G. Orwell.md",
+    "Inglese/O. Wilde.md",
+    "Tecnologie",
+    "GPO",
+    "Informatica",
     "Inglese",
     "Educazione Civica",
     "Sistemi e Reti/Esame Scritta/Pasted image 20240615191402.png",
